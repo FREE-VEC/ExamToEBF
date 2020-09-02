@@ -22,6 +22,6 @@
 
   Software: ExamToEBF
 
-  License: Apache 2.0
+  License: Apache License, Version 2.0
 
   Licensor: FREE-VEC
